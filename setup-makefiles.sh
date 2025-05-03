@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=ZPD1272
+DEVICE=tb8786p1_64_k510_wifi
 VENDOR=zyb
 
 # Load extract_utils and do some sanity checks
