@@ -11,7 +11,7 @@ $(call inherit-product, device/zyb/tb8786p1_64_k510_wifi/device.mk)
 
 # Device identifier
 PRODUCT_DEVICE := tb8786p1_64_k510_wifi # 设备型号
-PRODUCT_NAME := omni_tb8786p1_64_k510_wifi # 设备名称
+PRODUCT_NAME := twrp_tb8786p1_64_k510_wifi # 设备名称
 PRODUCT_BRAND := zyb # 自定义品牌，如果有
 PRODUCT_MODEL := tb8786p1_64_k510_wifi # 产品最终用户可见名称
 PRODUCT_MANUFACTURER := zyb # 制造商
