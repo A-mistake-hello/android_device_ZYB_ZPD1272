@@ -18,9 +18,9 @@ AB_OTA_PARTITIONS += \
     vbmeta_vendor
     
 PRODUCT_PACKAGES += \
-    android.hardware.boot@1.0-impl \
-    android.hardware.boot@1.0-service \
-    android.hardware.boot@1.0.recovery \
+    android.hardware.boot@1.2-impl \
+    android.hardware.boot@1.2-service \
+    android.hardware.boot@1.2.recovery \
     bootctrl.mt6768 \
     bootctrl.mt6768.recovery 
 
